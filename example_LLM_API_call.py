@@ -1,7 +1,7 @@
 HOST = ""
 PORT = 1
 
-mport transformers
+import transformers
 import openai
 
 client = openai.Client(base_url=f"http://{HOST}:{PORT}/v1", api_key="123456")
