@@ -1,10 +1,10 @@
 HOST = ""
 PORT = 1
+API_KEY = ""
 
-import transformers
 import openai
 
-client = openai.Client(base_url=f"http://{HOST}:{PORT}/v1", api_key="123456")
+client = openai.Client(base_url=f"http://{HOST}:{PORT}/v1", api_key=API_KEY)
 model_name = client.models.list().data[0].id
 
 print(model_name)
