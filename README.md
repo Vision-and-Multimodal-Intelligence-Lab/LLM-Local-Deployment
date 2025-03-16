@@ -4,7 +4,7 @@ This repository contains example code demonstrating how to use department self-d
 
 ## Overview
 
-The repository provides sample code for interacting with locally deployed Large Language Models (LLMs) using both Python scripts. The examples demonstrate various API interaction patterns including standard requests, streaming, and multi-turn conversations.
+The repository provides sample code for interacting with locally deployed Large Language Models (LLMs) using both Python script and Jupyter Notebook file. The examples demonstrate various API interaction patterns including standard requests, streaming, and multi-turn conversations.
 
 ## Available Models
 
