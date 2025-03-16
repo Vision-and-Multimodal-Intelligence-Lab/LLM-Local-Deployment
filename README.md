@@ -17,7 +17,7 @@ The department has deployed the following models which can be accessed through t
 
 ### Prerequisites
 
-- API key (register to obtain your key)
+- API key (register to obtain your key, see Hackathon instructions)
 - `openai` Python package
 
 ### Installation
