@@ -65,7 +65,7 @@ The examples showcase several important features:
 - Experiment with different `system prompts` to tailor the model's behavior
 - Adjust `temperature` and `top_p` parameters to control response randomness/creativity
 - For real-time applications, use `streaming` to improve user experience
-- The reasoning_content can be valuable for debugging or educational applications
+- The reasoning content can be valuable for debugging or educational applications
 
 ## Support
 
