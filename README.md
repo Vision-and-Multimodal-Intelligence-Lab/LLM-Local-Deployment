@@ -32,7 +32,7 @@ The department has deployed the following models which can be accessed through t
    ```
    conda create -n local_LLM python=3.12
    conda activate local_LLM
-   pip install openai transformers notebook
+   pip install openai
    ```
 
 ## Configuration
