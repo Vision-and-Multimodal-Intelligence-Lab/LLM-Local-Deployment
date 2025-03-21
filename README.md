@@ -19,6 +19,9 @@ The department has deployed the following models which can be accessed through t
 
 - API key (register to obtain your key, see Hackathon instructions)
 - `openai` Python package
+> [!note]
+> If you want to use Javascript, also check this [link](https://platform.openai.com/docs/api-reference/completions/create?lang=node.js).  
+> If you want to use other language, also check the last cell of [`example_LLM_API_call.ipynb`](example_LLM_API_call.ipynb) and this [link](https://platform.openai.com/docs/api-reference/completions/create?lang=curl).
 
 ### Installation
 
