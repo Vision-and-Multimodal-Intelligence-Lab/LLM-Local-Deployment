@@ -26,13 +26,13 @@ The department has deployed the following models which can be accessed through t
 ### Installation
 
 1. Clone this repository:
-   ```
+   ```bash
    git clone https://github.com/Vision-and-Multimodal-Intelligence-Lab/LLM-Local-Deployment.git
    cd LLM-Local-Deployment
    ```
 
 2. Create your Python environment (Conda) and install the required dependencies. If you do not plan to use Jupyter Notebook
-   ```
+   ```bash
    conda create -n local_LLM python=3.12
    conda activate local_LLM
    pip install openai
