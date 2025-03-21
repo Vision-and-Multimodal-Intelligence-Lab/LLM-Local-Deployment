@@ -43,7 +43,7 @@ The department has deployed the following models which can be accessed through t
 Before using the examples, you need to set three key variables:
 
 - `HOST`: The host address of the deployed models
-- `PORT`: The port number for the specific model you want to access (50000 for Llama-70B or 50001 for Qwen-14B)
+- `PORT`: The port number for the specific model you want to access (`50000` for Llama-70B or `50001` for Qwen-14B)
 - `API_KEY`: Your personal API key for authentication
 
 ## Usage Examples
